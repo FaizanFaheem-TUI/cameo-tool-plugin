@@ -1,1 +1,1 @@
-# cameo-tool-plugin
+# Cameo-Tool-Plugin
